@@ -1,0 +1,13 @@
+{
+  "name": "setran-file-manager",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelodanielnunesbrasil/file-manager"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.2.0",
+    "@angular/core": "^8.2.0",
+    "angular-split": "^2.0.1"
+  }
+}
